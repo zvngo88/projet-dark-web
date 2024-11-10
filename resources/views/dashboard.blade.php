@@ -81,7 +81,7 @@
             @endauth
         </div>
     </div>
-</header>
+    </header>
 
 
     <!-- Section principale avec logo et slogan -->
